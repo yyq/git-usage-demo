@@ -1,4 +1,6 @@
 print('hello world')
 print('hello')
 print()
-prin
+print('hello')
+print('hello')
+print('hello')
